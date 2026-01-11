@@ -24,7 +24,13 @@ G.E.MI. number 179378603000
 
 Alpha bank
 GR6701401300130002002024551
-Beneficiary IRIA group G.P.
+Beneficiary: IRIA GROUP O.E.
+BIC CODE/SWIFT: CRBAGRAA
+
+Piraeus bank
+GR7101720730005073116228241
+Beneficiary: IRIA GROUP O.E.
+BIC CODE/SWIFT: PIRBGRAA
 
 ---
 Ελληνικά: [[IRIA WEBSITE/IRIA group Ο.Ε.|IRIA group Ο.Ε.]]

@@ -24,7 +24,13 @@
 
 Alpha bank
 GR6701401300130002002024551
-Δικαιούχος IRIA group G.P.
+Δικαιούχος (λατινικοί χαρ.): IRIA GROUP O.E.
+BIC CODE/SWIFT: CRBAGRAA
+
+Piraeus bank
+GR7101720730005073116228241
+Δικαιούχος (λατινικοί χαρ.): IRIA GROUP O.E.
+BIC CODE/SWIFT: PIRBGRAA
 
 ---
 English: [[IRIA WEBSITE/IRIA group G.P.|IRIA group G.P.]]
